@@ -18,7 +18,8 @@
 		"enhance": false,
 		"useCompilerModule": true,
 		"userConfirmedUseCompilerModuleSwitch": false,
-		"showShadowRootInWxmlPanel": true
+		"showShadowRootInWxmlPanel": true,
+		"checkSiteMap":false
 	},
 	"miniprogramRoot": "dist/wx/",
 	"compileType": "miniprogram",

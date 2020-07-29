@@ -1,35 +1,15 @@
-# mpvue-app
-创建项目
+# 创建项目mpvue-app
+  解决漏洞：webpack-bundle-analyzer版本更新到3.3.2
 
-## Build Setup
+项目页面分配：
+  1. 首页   --王蓉
+  2. 商品详情   --杨欢欢
+  3. 店铺详情+地图页面    --余永玲
+  4. 我的页面   --吴庭苇
+  5. 购物车页面   --黎宁
 
-``` bash
-# 初始化项目
-vue init mpvue/mpvue-quickstart myproject
-cd myproject
+# 创建分支：wang
 
-# 安装依赖
-yarn
 
-# 开发时构建
-npm dev
 
-# 打包构建
-npm build
-
-# 指定平台的开发时构建(微信、百度、头条、支付宝)
-npm dev:wx
-npm dev:swan
-npm dev:tt
-npm dev:my
-
-# 指定平台的打包构建
-npm build:wx
-npm build:swan
-npm build:tt
-npm build:my
-
-# 生成 bundle 分析报告
-npm run build --report
-```
-创建分支：wang
+1
